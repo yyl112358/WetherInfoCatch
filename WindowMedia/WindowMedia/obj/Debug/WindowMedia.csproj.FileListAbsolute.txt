@@ -1,0 +1,13 @@
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\obj\Debug\Interop.WMPLib.dll
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\obj\Debug\WindowMedia.csproj.ResolveComReference.cache
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\obj\Debug\WindowMedia.Properties.Resources.resources
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\obj\Debug\WindowMedia.csproj.GenerateResource.Cache
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\bin\Debug\WindowMedia.exe
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\bin\Debug\WindowMedia.pdb
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\obj\Debug\WindowMedia.MainWindow.resources
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\obj\Debug\WindowMedia.exe
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\obj\Debug\WindowMedia.pdb
+C:\Users\yulon_000\Desktop\编程文件\WindowMedia\WindowMedia\obj\Debug\WindowMedia.csprojResolveAssemblyReference.cache

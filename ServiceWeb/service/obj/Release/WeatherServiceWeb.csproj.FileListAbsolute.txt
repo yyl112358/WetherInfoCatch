@@ -1,0 +1,7 @@
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\WeatherServiceWeb.dll.config
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\WeatherServiceWeb.dll
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\WeatherServiceWeb.pdb
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\MySql.Data.dll
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\obj\Release\WeatherServiceWeb.dll
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\obj\Release\WeatherServiceWeb.pdb
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\obj\Release\WeatherServiceWeb.csprojResolveAssemblyReference.cache

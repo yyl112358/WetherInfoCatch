@@ -1,0 +1,487 @@
+﻿------------------------------------------------------------
+Time->2017/2/10 10:18:15
+ 向服务器提交城市数据时发生异常
+ 异常消息为->基础连接已经关闭: 接收时发生错误。
+异常堆栈信息->   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.SendCityInfo(List`1 cityInfoList) 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 262
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 59
+------------------------------------------------------------
+Time->2017/2/10 10:39:49
+ 向服务器提交城市数据时发生异常
+ 异常消息为->基础连接已经关闭: 接收时发生错误。
+异常堆栈信息->   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.SendCityInfo(List`1 cityInfoList) 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 262
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 59
+------------------------------------------------------------
+Time->2017/2/10 10:42:23
+ 向服务器提交城市数据时发生异常
+ 异常消息为->远程服务器返回错误: (500) 内部服务器错误。
+异常堆栈信息->   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.SendCityInfo(List`1 cityInfoList) 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 262
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 59
+------------------------------------------------------------
+Time->2017/2/10 10:47:58
+ 向服务器提交城市数据时发生异常
+ 异常消息为->远程服务器返回错误: (500) 内部服务器错误。
+异常堆栈信息->   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.SendCityInfo(List`1 cityInfoList) 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 262
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 59
+------------------------------------------------------------
+Time->2017/2/10 11:24:50
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 远程服务器返回错误: (500) 内部服务器错误。  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:25:36
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 远程服务器返回错误: (500) 内部服务器错误。  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:26:29
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 远程服务器返回错误: (500) 内部服务器错误。  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:26:45
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:26:48
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:26:50
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:26:52
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:26:54
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:26:56
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:26:58
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:27:00
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:27:02
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:27:05
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:27:46
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 远程服务器返回错误: (500) 内部服务器错误。  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:06
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:08
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:10
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:12
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:14
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:16
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:18
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:20
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:22
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:25
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:27
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:29
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:31
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:33
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:35
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:37
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:39
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:41
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:43
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:46
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:48
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:50
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:52
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:54
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:56
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:28:58
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:00
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:02
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:05
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:07
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:09
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:11
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:13
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:15
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:17
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:19
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:21
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:24
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:26
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:28
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:30
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:32
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:34
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:36
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:38
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:40
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:42
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:45
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:47
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:49
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:51
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:53
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:55
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:57
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:29:59
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:02
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:04
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:06
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:08
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:10
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:12
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:14
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:16
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:19
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:21
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:23
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:25
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:28
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:30
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:32
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:34
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:36
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:30:38
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 无法连接到远程服务器  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 11:34:14
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 远程服务器返回错误: (500) 内部服务器错误。  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 12:40:01
+ 最外层捕获到的异常信息,最后的查找点  异常信息为 操作超时  堆栈信息为   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.GetCityListFromServer() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 87
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 44
+------------------------------------------------------------
+Time->2017/2/10 13:50:02
+ 服务器返回数据接收错误   发出请求城市列表请求 URL为http://localhost:3953/?accesskey=8A1F86548CDD406D880F631507650159&MAC=A2A8CDB8E5B7&requesttype=getcitylist
+------------------------------------------------------------
+Time->2017/2/10 13:50:02
+ 分析城市列表响应结果时出现异常 
+返回的字符串信为
+------------------------------------------------------------
+Time->2017/2/10 13:53:30
+ 服务器返回数据接收错误   发出请求城市列表请求 URL为http://localhost:3953/?accesskey=8A1F86548CDD406D880F631507650159&MAC=A2A8CDB8E5B7&requesttype=getcitylist
+------------------------------------------------------------
+Time->2017/2/10 13:53:31
+ 分析城市列表响应结果时出现异常 
+返回的字符串信为

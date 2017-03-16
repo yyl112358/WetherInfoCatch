@@ -1,0 +1,47 @@
+﻿------------------------------------------------------------
+Time->2017/2/9 20:47:09
+ 分析城市列表响应结果时出现异常 
+返回的字符串信为status:error
+message:requesttype is illegal
+------------------------------------------------------------
+Time->2017/2/9 21:10:56
+ 向服务器提交城市数据时发生异常
+ 异常消息为->远程服务器返回错误: (500) 内部服务器错误。
+异常堆栈信息->   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.SendCityInfo(List`1 cityInfoList) 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 260
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 59
+------------------------------------------------------------
+Time->2017/2/9 21:28:56
+ 向服务器提交城市数据时发生异常
+ 异常消息为->远程服务器返回错误: (500) 内部服务器错误。
+异常堆栈信息->   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.SendCityInfo(List`1 cityInfoList) 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 261
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 59
+------------------------------------------------------------
+Time->2017/2/9 21:39:15
+ 向服务器提交城市数据时发生异常
+ 异常消息为->基础连接已经关闭: 接收时发生错误。
+异常堆栈信息->   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.SendCityInfo(List`1 cityInfoList) 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 261
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 59
+------------------------------------------------------------
+Time->2017/2/9 22:04:27
+ 向服务器提交城市数据时发生异常
+ 异常消息为->远程服务器返回错误: (500) 内部服务器错误。
+异常堆栈信息->   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.SendCityInfo(List`1 cityInfoList) 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 261
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 59
+------------------------------------------------------------
+Time->2017/2/9 22:33:20
+ 向服务器提交城市数据时发生异常
+ 异常消息为->远程服务器返回错误: (500) 内部服务器错误。
+异常堆栈信息->   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.SendCityInfo(List`1 cityInfoList) 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 261
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 59
+------------------------------------------------------------
+Time->2017/2/9 22:48:31
+ 向服务器提交城市数据时发生异常
+ 异常消息为->操作超时
+异常堆栈信息->   在 System.Net.HttpWebRequest.GetResponse()
+   在 ServiceDemo.Service.SendCityInfo(List`1 cityInfoList) 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 261
+   在 ServiceDemo.Service.ThreadMethodHandle() 位置 c:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\Service.cs:行号 59

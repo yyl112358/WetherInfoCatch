@@ -1,0 +1,7 @@
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\service.dll.config
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\service.dll
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\service.pdb
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\MySql.Data.dll
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\obj\Debug\service.csprojResolveAssemblyReference.cache
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\obj\Debug\service.dll
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\obj\Debug\service.pdb

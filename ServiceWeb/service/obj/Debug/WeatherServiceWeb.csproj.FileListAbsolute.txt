@@ -1,0 +1,14 @@
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\MySql.Data.dll
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\WeatherServiceWeb.dll.config
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\WeatherServiceWeb.dll
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\bin\WeatherServiceWeb.pdb
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\obj\Debug\WeatherServiceWeb.dll
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\obj\Debug\WeatherServiceWeb.pdb
+C:\Users\yulon_000\Desktop\编程文件\ServiceWeb\ServiceWeb\service\obj\Debug\WeatherServiceWeb.csprojResolveAssemblyReference.cache
+E:\CodeTemp\编程文件\ServiceWeb\ServiceWeb\service\bin\WeatherServiceWeb.dll.config
+E:\CodeTemp\编程文件\ServiceWeb\ServiceWeb\service\bin\WeatherServiceWeb.dll
+E:\CodeTemp\编程文件\ServiceWeb\ServiceWeb\service\bin\WeatherServiceWeb.pdb
+E:\CodeTemp\编程文件\ServiceWeb\ServiceWeb\service\bin\MySql.Data.dll
+E:\CodeTemp\编程文件\ServiceWeb\ServiceWeb\service\obj\Debug\WeatherServiceWeb.csprojResolveAssemblyReference.cache
+E:\CodeTemp\编程文件\ServiceWeb\ServiceWeb\service\obj\Debug\WeatherServiceWeb.dll
+E:\CodeTemp\编程文件\ServiceWeb\ServiceWeb\service\obj\Debug\WeatherServiceWeb.pdb

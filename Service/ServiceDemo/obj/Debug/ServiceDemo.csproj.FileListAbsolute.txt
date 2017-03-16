@@ -1,0 +1,4 @@
+C:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\bin\Debug\ServiceDemo.exe
+C:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\bin\Debug\ServiceDemo.pdb
+C:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\obj\Debug\ServiceDemo.exe
+C:\Users\yulon_000\Desktop\编程文件\ServiceDemo\ServiceDemo\obj\Debug\ServiceDemo.pdb
